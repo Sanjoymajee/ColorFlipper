@@ -95,6 +95,10 @@ Variables
     margin-bottom: 2.5rem;
 }
 
+.type-box {
+    background-color: #f1f5f8;
+}
+
 .color {
     color: #f1f5f8;
 }
